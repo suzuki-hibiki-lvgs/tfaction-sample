@@ -1,5 +1,5 @@
 locals {
-  system = "tfaction-sample"
+  system = "levwell-tfaction-sample"
 }
 
 module "sample" {
